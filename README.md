@@ -10,4 +10,4 @@ Zajmuję się aktualnie tematami zamiany textu w gotową działającą aplikacj�
 
 
 Zapraszam do kontaktu,
-[Tom S. - Founder CEO CTO - Softreck](https://www.linkedin.com/in/tom-sapletta-com/)
+[Tom Sapletta - Founder CEO CTO - Softreck](https://www.linkedin.com/in/tom-sapletta-com/)
