@@ -9,5 +9,12 @@ Zajmuję się aktualnie tematami zamiany textu w gotową działającą aplikacj�
 + text2app
 
 
+# TOOLS
+
+## LOGO
+
++ [Paletton - The Color Scheme Designer](https://paletton.com/#uid=10J0u0kllll9W0afNaKqTvWxe+y)
+
+
 Zapraszam do kontaktu,
 [Tom Sapletta - Founder CEO CTO - Softreck](https://www.linkedin.com/in/tom-sapletta-com/)
