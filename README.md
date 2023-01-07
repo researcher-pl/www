@@ -8,10 +8,13 @@
 Zajmuję się aktualnie tematami zamiany textu w gotową działającą aplikację:
 
 + [www.text2software.com - develepment](https://www.text2software.com/)
++ texttoapplication
 + text2app
 + text2ops
 + texttoprogram
 + texttodoc -  flatedit
++ texttoservice
++ ...
 
 ## Nauka i innowacje
 
