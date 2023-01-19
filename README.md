@@ -43,8 +43,15 @@ Takie realia sprawiają, że każda aktywna jednostka ma szansę na wejśćie wn
 -   [srs.to.software - Software Requirements Specification to Software](https://srs.to.software/)
 -   [speech.to.software - voice to software with any asystant](https://speech.to.software/)
 
-## LOGO
 
+
+## How to create LOGO
+
+
+## How to find correct color scheme
+
++ [WCAG Color contrast checker - Chrome Web Store](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en)
++ [WhoCanUse](https://www.whocanuse.com/)
 + [Paletton - The Color Scheme Designer](https://paletton.com/#uid=10J0u0kllll9W0afNaKqTvWxe+y)
 
 
