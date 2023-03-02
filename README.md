@@ -55,5 +55,10 @@ Takie realia sprawiają, że każda aktywna jednostka ma szansę na wejśćie wn
 + [Paletton - The Color Scheme Designer](https://paletton.com/#uid=10J0u0kllll9W0afNaKqTvWxe+y)
 
 
+## TOOLS
+
++ [openware/opendax: Open-Source Cloud-Native Digital Asset & Cryptocurrency Exchange Platform](https://github.com/openware/opendax)
+
+
 Zapraszam do kontaktu,
 [Tom Sapletta - Founder CEO CTO - Softreck](https://www.linkedin.com/in/tom-sapletta-com/)
