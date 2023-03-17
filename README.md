@@ -26,7 +26,26 @@ Zarówno patenty, jak i artykuły naukowe wraz z upływem czasu stawały się co
 
 https://obserwatorgospodarczy.pl/2023/01/06/naukowcy-tworza-coraz-wiecej-badan-ktore-nie-daja-postepu-badanie/
 
+## Demokratyzacja badan
 
+Demokratyzacja badań nie oznacza, że każdy może je robić, demokratyzacją badań:
++ Badania użytkowników są powszechnie rozumiane
++ Wartość badań z udziałem użytkowników jest znana
++ Wyniki badań są widoczne w całej organizacji
+
+Członkowie zespołu produktowego mogą zaangażować się w badania, a nawet zostać przeszkoleni do prowadzenia własnych projektów
+Problem w tym, że demokratyzacja jest często błędnie rozumiana jako "nie potrzebujemy ekspertów, każdy może robić badania użytkowników!". Nieprawda.
+
+Każdy może porozmawiać z użytkownikiem lub spojrzeć na dane dotyczące użytkowania dostarczane przez ten czy inny pakiet oprogramowania lub inny. Jednak wydobycie użytecznych informacji i wyłowienie nieoczywistych sygnałów wymaga umiejętności, wiedzy i doświadczenia. 
+
+Jest to zniuansowana praca, tak bardzo, że organizacje o najsilniejszych kompetencjach w zakresie badań nad użytkownikami, wystepuja specjalizacje takie jak: 
+
++ Design researchers, 
++ Product researchers,
++ Behavioral researchers, 
++ Data scientists, itd. 
+
+Przetłumaczono z www.DeepL.com/Translator (wersja darmowa)
 ## Co dalej?
 
 to nie jest takie złe, to daje przewagę mniejszym organizacją a nawet pojedynczym inżynierom.
