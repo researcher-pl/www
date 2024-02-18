@@ -6,7 +6,7 @@
 ## Tom Sapletta
 
 Obszary badań i rozwoju, które zajmują mój czas od kilu lat to:
-+ hipermodularyzacja jako droga do tworzenia architektury i wytwarzania oprogramowania:
++ hipermodularyzacja jako droga do tworzenia architektury i wytwarzania oprogramowania - [Modular Code by Hypermodularity](https://www.coders.info/)
   + ModDevOps - Model-Based Systems and Software Engineering - [From Model-Based Systems and Software Engineering to ModDevOps](https://insights.sei.cmu.edu/blog/from-model-based-systems-and-software-engineering-to-moddevops/)
   + MBSE - Model-Based Systems Engineering
   + CBSD - Component-Based Software Development
