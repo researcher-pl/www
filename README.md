@@ -5,7 +5,18 @@
 
 ## Tom Sapletta
 
-Zajmuję się aktualnie tematami zamiany textu w gotową działającą aplikację:
+Obszary badań i rozwoju, które zajmują mój czas od kilu lat to:
++ hipermodularyzacja jako droga do tworzenia architektury i wytwarzania oprogramowania:
+  + ModDevOps - Model-Based Systems and Software Engineering - [From Model-Based Systems and Software Engineering to ModDevOps](https://insights.sei.cmu.edu/blog/from-model-based-systems-and-software-engineering-to-moddevops/)
+  + MBSE - Model-Based Systems Engineering
+  + CBSD - Component-Based Software Development
+  + Digital Twin
+  
+
+Owoce tych badań i wypracowanych standardów danych i wytwarzania oprogramowania posłużyły do stworzenia koncepcji i prototypu autonomicznego frameworka:
+  + ModuleTool - Autonomous Service-Oriented Orchestration Framework
+    
+Bazując na doświadczeniach Dialogware, korzystamy z owoców ekosystemu wykorzystuącego LLM, do zamiany textu w gotową działającą aplikację:
 
 + [www.text2software.com - develepment](https://www.text2software.com/)
 + texttoapplication
@@ -15,6 +26,7 @@ Zajmuję się aktualnie tematami zamiany textu w gotową działającą aplikacj�
 + texttodoc -  flatedit
 + texttoservice
 + ...
+
 
 ## Nauka i innowacje
 
@@ -45,12 +57,13 @@ Jest to zniuansowana praca, tak bardzo, że organizacje o najsilniejszych kompet
 + Behavioral researchers, 
 + Data scientists, itd. 
 
-Przetłumaczono z www.DeepL.com/Translator (wersja darmowa)
+
 ## Co dalej?
 
 to nie jest takie złe, to daje przewagę mniejszym organizacją a nawet pojedynczym inżynierom.
 Wiele ludzi jedynie co potrafi to odtwarzać coś co już istnieje, ponieważ R&D dla nich to forma dotowanego projektu np. z EU. 
 Takie realia sprawiają, że każda aktywna jednostka ma szansę na wejśćie wniszowy rynek globalny.
+
 
 # TOOLS
 
