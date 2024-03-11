@@ -28,6 +28,12 @@ Bazując na doświadczeniach Dialogware, korzystamy z owoców ekosystemu wykorzy
 + ...
 
 
+## Tools
+
++ [Palette - Coolors](https://coolors.co/palette/8ecae6-219ebc-023047-ffb703-fb8500)
+
+  
+
 ## Nauka i innowacje
 
 Jak wynika z badań, od 1945 roku odkrycia naukowe w coraz mniejszym stopniu przekładały się na tworzenie nowej oraz dewaluację starej wiedzy.
