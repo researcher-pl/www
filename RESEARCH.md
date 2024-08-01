@@ -99,7 +99,7 @@ Użytkownik może efektywnie korzystać z programu, rozumie, co się dzieje podc
 
 ## Ustandaryzowany edytor plików 
 
-Brak jednego ustandaryzowanego edytora do plików i projektów na komputery typu workstation wynika z kilku kluczowych czynników:
+Brak jednego ustandaryzowanego edytora do plików i projektów na komputery PC i urzadzenia mobilne wynika z kilku kluczowych czynników:
 
 1. **Specjalizacja i Zróżnicowane Potrzeby**:
     - Różne branże i typy projektów mają różne wymagania. Na przykład, programiści mogą potrzebować zaawansowanych funkcji kodowania, inżynierowie CAD zaawansowanych narzędzi projektowych, a twórcy treści multimedialnych zaawansowanych funkcji edycji wideo lub audio.
