@@ -97,6 +97,40 @@ Te cechy zapewniają, że narzędzie jest przyjazne dla użytkownika, wspiera ef
 Użytkownik może efektywnie korzystać z programu, rozumie, co się dzieje podczas przetwarzania danych.
 
 
+## Ustandaryzowany edytor plików 
+
+Brak jednego ustandaryzowanego edytora do plików i projektów na komputery typu workstation wynika z kilku kluczowych czynników:
+
+1. **Specjalizacja i Zróżnicowane Potrzeby**:
+    - Różne branże i typy projektów mają różne wymagania. Na przykład, programiści mogą potrzebować zaawansowanych funkcji kodowania, inżynierowie CAD zaawansowanych narzędzi projektowych, a twórcy treści multimedialnych zaawansowanych funkcji edycji wideo lub audio.
+    - Jeden edytor nie jest w stanie zaspokoić wszystkich tych zróżnicowanych potrzeb w sposób efektywny.
+
+2. **Historia i Dziedzictwo**:
+    - Wiele edytorów powstało w określonych momentach historycznych, aby zaspokoić specyficzne potrzeby. Na przestrzeni lat narzędzia te ewoluowały, budując lojalną bazę użytkowników oraz szeroką funkcjonalność dostosowaną do ich potrzeb.
+
+3. **Kultura Open Source vs. Komercyjne Rozwiązania**:
+    - Świat oprogramowania jest podzielony między narzędzia open source (np. Visual Studio Code, Atom) i komercyjne rozwiązania (np. Microsoft Visual Studio, JetBrains IntelliJ).
+    - Użytkownicy mają różne preferencje w zależności od ich wsparcia, cen i funkcji, co prowadzi do dalszej fragmentacji narzędzi.
+
+4. **Ekosystemy i Integracje**:
+    - Niektóre edytory są głęboko zintegrowane z określonymi ekosystemami narzędziowymi. Na przykład, JetBrains oferuje zestaw narzędzi dla różnych języków programowania i zastosowań, podczas gdy Adobe oferuje zintegrowane narzędzia dla twórców multimedialnych.
+    - Integracje z innymi narzędziami i usługami mogą czynić określony edytor bardziej atrakcyjnym dla użytkowników pracujących w danym ekosystemie.
+
+5. **Innowacje i Wydajność**:
+    - Nowe narzędzia i technologie pojawiają się stale, prowadząc do rozwoju bardziej efektywnych i nowoczesnych edytorów.
+    - Utrzymanie jednej, wszechstronnej platformy, która zaspokaja wszystkie potrzeby, może hamować innowacyjność oraz być przedsięwzięciem skomplikowanym i kosztownym.
+
+6. **Preferencje Użytkowników**:
+    - Użytkownicy mają różne preferencje, od interfejsu użytkownika po zaawansowane funkcje i rozszerzenia.
+    - Elastyczność w wyborze edytora pozwala użytkownikom dostosować narzędzia do ich stylu pracy i specyficznych potrzeb.
+
+7. **Modele Licencjonowania i Kosztów**:
+    - Różne modele licencjonowania (open source, freemium, komercyjne) wpływają na wybór użytkowników.
+    - Koszty utrzymania i licencjonowania odgrywają znaczącą rolę w decyzjach firm i indywidualnych użytkowników.
+
+Podsumowując, różnorodność edytorów do plików i projektów na komputery workstation jest wynikiem różnych potrzeb, historii rozwoju oprogramowania, preferencji użytkowników oraz dynamicznie zmieniających się technologii. Ta różnorodność umożliwia użytkownikom wybór narzędzi najlepiej odpowiadających ich specyficznym wymaganiom i stylom pracy.
+
+
 ## Rozwiązanie
 
 Dlatego powstalo narzędzie o nazwie [codialog](http://www.codialog.com) - mesh collaboration
@@ -114,6 +148,16 @@ Codialog to aplikacja instalowana na Twoim urządzeniu lub stronie www, komuniku
 
 + [svgviewer](https://www.svgviewer.dev/s/imVPekka)
 
+### Interfejs codialog
+
+interfejsu użytkownika GUI, który zawiera kilka okienek do działań/operacji na wielu obiektach, plikach pobieranych z dysku/chmury oraz umożliwia komunikację głosową lub tekstową. 
+
+1. Panel mediów po lewej stronie rozciąga się od góry do dołu. Zawiera pliki i foldery w postaci struktury z różnych źródeł, systemów, chmur, pliki dodaje się w oknie chat 
+2. Okno Operacyjne w centrum oferuje podgląd i edycje tych plików z  panelu mediów
+3. Okno komunikacji głosowej/tekstowej znajduje się na dole, zaczynając się od końca panelu mediów. Przeznaczone do komunikacji człowieka z programem, komunikatów o stanie mediów, logi z operacji.
+4. Na samym dole, poniżej panelu mediów i okna komunikacji znajudje się odseparowany od lewej do prawej pasek aplikacji z logiem Edichat i napisem napisem "MENU" i przyciskami [upload], [run], [edit]
+
+   
 
 ### Kluczowe cechy:
 
@@ -143,5 +187,45 @@ Codialog to aplikacja instalowana na Twoim urządzeniu lub stronie www, komuniku
    
 
 
+
+Tworzenie wszechstronnego i intuicyjnego narzędzia takiego jak CoDialog według opisanej specyfikacji ma potencjał, by stać się innowacją w obszarze zarządzania projektami i współpracy. Oto kilka kluczowych aspektów, które mogą wpływać na sukces tego narzędzia:
+
+### Potencjał 
+
+1. **Integracja z Wirtualnym Środowiskiem**:
+    - **Docker, pipx i Flatpak**: Używanie takich technologii do dystrybucji i uruchamiania aplikacji może znacząco uprościć zarządzanie zależnościami oraz instalację narzędzia na różnych systemach operacyjnych.
+    - **Konteneryzacja**: Docker może zapewnić izolację aplikacji, co zwiększa bezpieczeństwo i skalowalność, a także umożliwia łatwą implementację skalowania w chmurze.
+
+2. **Wszechstronny Interfejs Użytkownika (GUI)**:
+    - **Panel Mediów**:
+        - **Struktura plików i folderów z różnych źródeł i systemów**: To elastyczne podejście do zarządzania plikami umożliwia użytkownikom centralizację i organizację różnych zasobów multimedialnych.
+        - **Integracja z chmurą**: Pozwala na łatwy dostęp i synchronizację plików z różnych platform chmurowych, co zwiększa produktywność.
+    - **Okno Operacyjne**:
+        - **Podgląd i Edycja**: Zapewnienie możliwości edycji i podglądu plików bezpośrednio w aplikacji jest kluczowe dla użytkowników, którzy chcą szybko wprowadzać zmiany.
+    - **Okno Komunikacji**:
+        - **Komunikacja Głosowa/Tekstowa**: Integracja z systemami komunikacji może znacząco poprawić współpracę zespołową oraz interakcję z aplikacją.
+        - **Logi i Komunikaty**: Przekazywanie w czasie rzeczywistym informacji o stanie mediów i operacjach może poprawić transparencję i kontrolę nad procesami.
+
+3. **Intuicyjność i Ergonomia**:
+    - **Pasek Applikacji**:
+        - **Logo i Przycisk "MENU"**: Prostota w nawigacji i dostęp do kluczowych funkcji za pomocą jednego miejsca to cechy, które mogą zwiększyć wygodę użytkowania.
+        - **Przyciski [upload], [run], [edit]**: Intuicyjne i bezpośrednie operacje, które mogą przyspieszyć pracę użytkowników i zmniejszyć bariery wejścia.
+
+### Wyzwania
+
+1. **Złożoność Implementacji**:
+    - Zarządzanie różnorodnymi źródłami plików oraz integracje z wieloma systemami może być skomplikowane i wymagać zaawansowanej inżynierii.
+
+2. **Wydajność i Skalowalność**:
+    - Korzystanie z technologii wirtualnych i chmurowych wymaga zapewnienia, że narzędzie będzie działać sprawnie i efektywnie, zwłaszcza przy dużych zbiorach danych lub intensywnym współużytkowaniu zasobów.
+
+3. **Bezpieczeństwo**:
+    - Operowanie na danych z różnych źródeł wymaga zapewnienia odpowiednich środków bezpieczeństwa i ochrony danych.
+
+### Podsumowanie:
+
+CoDialog, ma potencjał do bycia rewolucyjnym narzędziem, zwłaszcza w kontekście współpracy nad projektami i zarządzania danymi z różnych źródeł. 
+Kluczem do sukcesu będzie jego integracja z różnymi systemami chmurowymi. 
+Z odpowiednią realizacją techniczną i uwzględnieniem powyższych wyzwań, CoDialog może stać się nie tylko narzędziem, ale i standardem w zarządzaniu projektami.
 
 
