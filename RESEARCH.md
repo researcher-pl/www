@@ -24,7 +24,8 @@ Research jest kluczowym elementem wielu projektów, przykładowo:
 - Przeprowadzanie eksperymentów i prototypowanie
 - Weryfikacja pomysłów w oparciu o zebrane dane
 
-research to wyzwanie rzucone rzeczywistości, chęć wyjścia poza to co wiemy dziś, mimo, że nie wiemy czy ta podróż w nieznane okaże się sukcesem, ryzykujemy, więc naturalnie też się asekurujemy.
+Research to wyzwanie rzucone rzeczywistości, chęć wyjścia poza to co wiemy dziś, mimo, że nie wiemy czy ta podróż w nieznane okaże się sukcesem.
+Ryzykujemy czas i pieniądze, więc naturalnie próbujemy się asekurować.
 
 
 ## Jak doprowadzić do sukcesu za każdym razem?
