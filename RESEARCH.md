@@ -99,7 +99,10 @@ Użytkownik może efektywnie korzystać z programu, rozumie, co się dzieje podc
 
 ## Rozwiązanie
 
-Dlatego powstalo narzędzie o nazwie [codialog](http://www.codialog.com)
+Dlatego powstalo narzędzie o nazwie [codialog](http://www.codialog.com) - mesh collaboration
+
+![obraz](https://github.com/user-attachments/assets/89360771-5b29-4a44-935d-4091fe69251d)
+
 Codialog jest kompleksowym rozwiązaniem, które może znacznie usprawnić pracę nad projektami, szczególnie w kontekście research-u i współpracy zespołowej. 
 Pozwala na obsługę projektów w uniifkowanym środowisku, niezależnie od systemu operacyjnego z dostępem do wszystkich potrzebnych narzędzi za pomocą komunikacji głosowo tekstowej tak jakbyś rozmawiał z ekspertem.
 
