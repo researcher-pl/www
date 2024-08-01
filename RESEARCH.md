@@ -142,7 +142,7 @@ Pozwala na obsługę projektów w uniifkowanym środowisku, niezależnie od syst
 
 Codialog to aplikacja instalowana na Twoim urządzeniu lub stronie www, komunikująca się z chmurą danych i chmurą obliczeniową.
 
-3 podstawwe okna oraz menu pozwala na szybki dostęp do potrzebnych funkcji i efektywną komunikację z zespołem.
+Interaktywne okna oraz menu pozwalają na szybki dostęp do potrzebnych danych i funkcji, Okno chat pozwala na efektywną komunikację z zespołem i podłączonymi integracjami.
 
 ![obraz](https://github.com/user-attachments/assets/0ea82fe2-3720-44ac-a4df-b0dad44dda21)
 
