@@ -107,8 +107,10 @@ Codialog to aplikacja instalowana na Twoim urządzeniu lub stronie www, komuniku
 
 3 podstawwe okna oraz menu pozwala na szybki dostęp do potrzebnych funkcji i efektywną komunikację z zespołem.
 
+![obraz](https://github.com/user-attachments/assets/0ea82fe2-3720-44ac-a4df-b0dad44dda21)
 
-![obraz](https://github.com/user-attachments/assets/ab411682-5878-44b6-a655-e74306b89d69)
++ [svgviewer](https://www.svgviewer.dev/s/imVPekka)
+
 
 ### Kluczowe cechy:
 
